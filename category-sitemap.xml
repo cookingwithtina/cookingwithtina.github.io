@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//cookingwithtina.github.io/cookingwithtina//wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//cookingwithtina.github.io//wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/appetizers/</loc>
+		<loc>https://cookingwithtina.github.io//category/appetizers/</loc>
 		<lastmod>2022-06-29T09:04:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/bread-sandwiches/</loc>
+		<loc>https://cookingwithtina.github.io//category/bread-sandwiches/</loc>
 		<lastmod>2022-06-28T09:35:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/desserts/</loc>
+		<loc>https://cookingwithtina.github.io//category/desserts/</loc>
 		<lastmod>2022-06-29T09:14:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/cocktails-and-drinks/</loc>
+		<loc>https://cookingwithtina.github.io//category/cocktails-and-drinks/</loc>
 		<lastmod>2022-06-14T06:52:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/complete-dishes/</loc>
+		<loc>https://cookingwithtina.github.io//category/complete-dishes/</loc>
 		<lastmod>2022-06-28T09:40:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/cooking-school/</loc>
+		<loc>https://cookingwithtina.github.io//category/cooking-school/</loc>
 		<lastmod>2022-06-29T09:04:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/ethnic-recipes/</loc>
+		<loc>https://cookingwithtina.github.io//category/ethnic-recipes/</loc>
 		<lastmod>2022-06-29T09:16:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/first-dishes/</loc>
+		<loc>https://cookingwithtina.github.io//category/first-dishes/</loc>
 		<lastmod>2022-06-29T09:17:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/holiday-recipes/</loc>
+		<loc>https://cookingwithtina.github.io//category/holiday-recipes/</loc>
 		<lastmod>2022-06-29T09:13:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/italian-recipes/</loc>
+		<loc>https://cookingwithtina.github.io//category/italian-recipes/</loc>
 		<lastmod>2022-06-24T06:24:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/light-recipes/</loc>
+		<loc>https://cookingwithtina.github.io//category/light-recipes/</loc>
 		<lastmod>2022-06-29T09:04:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/sauces-gravies/</loc>
+		<loc>https://cookingwithtina.github.io//category/sauces-gravies/</loc>
 		<lastmod>2022-06-15T16:44:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/second-dishes/</loc>
+		<loc>https://cookingwithtina.github.io//category/second-dishes/</loc>
 		<lastmod>2022-06-29T09:12:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cookingwithtina.github.io/cookingwithtina//category/side-dishes/</loc>
+		<loc>https://cookingwithtina.github.io//category/side-dishes/</loc>
 		<lastmod>2022-06-29T09:16:23+00:00</lastmod>
 	</url>
 </urlset>
