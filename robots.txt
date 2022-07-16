@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cookingwithtina.github.io/cookingwithtina//sitemap_index.xml
+Sitemap: https://cookingwithtina.github.io//sitemap_index.xml
